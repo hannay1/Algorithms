@@ -1,0 +1,5 @@
+Input,Encoded size (bits),Verified encoded size (bits),Decoded/original size (bits),Original file size
+test file (aaabbc),13,13,112,112
+lorem,5456,5456,20608,20608
+actual text,4725,4725,16912,16912
+random chars,2712,2712,7680,7680
